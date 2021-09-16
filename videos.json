@@ -14,5 +14,53 @@
         "href": "#",
         "imageUrl": "https://avatars.githubusercontent.com/u/26073889?v=4"
       }
+    },
+    {
+      "title": "Create a Python Virtual Environment",
+      "href": "#",
+      "category": { "name": "Video", "href": "#"},
+      "description":
+        "Learn to create an isolated installation of Python with unique site packages for each of your projects.  Virtual environments are a great way to keep track of dependencies so that you can easily share or deploy your code.",
+      "date": "Sep 15, 2021",
+      "datetime": "2021-09-15",
+      "videoUrl": "https://player.vimeo.com/video/606141702?h=0bb060b684&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "videoDuration": "2 min",
+      "author": {
+        "name": "Peter",
+        "href": "#",
+        "imageUrl": "https://avatars.githubusercontent.com/u/26073889?v=4"
+      }
+    },
+    {
+      "title": "Create a Python Virtual Environment",
+      "href": "#",
+      "category": { "name": "Video", "href": "#"},
+      "description":
+        "Learn to create an isolated installation of Python with unique site packages for each of your projects.  Virtual environments are a great way to keep track of dependencies so that you can easily share or deploy your code.",
+      "date": "Sep 15, 2021",
+      "datetime": "2021-09-15",
+      "videoUrl": "https://player.vimeo.com/video/606141702?h=0bb060b684&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "videoDuration": "2 min",
+      "author": {
+        "name": "Peter",
+        "href": "#",
+        "imageUrl": "https://avatars.githubusercontent.com/u/26073889?v=4"
+      }
+    },
+    {
+      "title": "Create a Python Virtual Environment",
+      "href": "#",
+      "category": { "name": "Video", "href": "#"},
+      "description":
+        "Learn to create an isolated installation of Python with unique site packages for each of your projects.  Virtual environments are a great way to keep track of dependencies so that you can easily share or deploy your code.",
+      "date": "Sep 15, 2021",
+      "datetime": "2021-09-15",
+      "videoUrl": "https://player.vimeo.com/video/606141702?h=0bb060b684&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "videoDuration": "2 min",
+      "author": {
+        "name": "Peter",
+        "href": "#",
+        "imageUrl": "https://avatars.githubusercontent.com/u/26073889?v=4"
+      }
     }
   ]
